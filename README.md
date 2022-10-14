@@ -1,10 +1,10 @@
 <h1 align = "center">
 <br>
-  <img src = "frontend/public/assets/spring.png" alt = "Spring React">
+  <img src = "frontend/public/assets/spring.gif" alt = "Spring React" width="100%">
 <br>
 </h1>
 
-<p align = "center"> Aplicação para o gerenciamento de registros de ponto dos colaboradores :) </p>
+<p align = "center"> Aplicação de graficos a partir dos dados do backend feito  :) </p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AdrianoCostaJHP/spring-react-charts?color=#ff8400"/>
@@ -13,30 +13,19 @@
  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/adrianocostaJHP/spring-react-charts?style=social"/>
  </p>
 
-<hr />
-
 ## :rocket: Tecnologias
-[//]: # (Adicione os recursos do seu projeto aqui :)
 
 <div>
-  <br>
   <a href="https://pt-br.reactjs.org/" target="_blank">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
-  <a href="https://nextjs.org/" target="_blank" >
-    <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  </a>
-  <a href="https://graphql.org/" target="_blank">
-    <img align="center" alt="GRAPHQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank">
-    <img align="center"alt="Chakra UI" height="30" width="40" src="public/assets/chakra-icon.svg" />
+  <a href="https://spring.io/" target="_blank" >
+    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />        
   </a>
   <br>        
 </div>
+
+## 📚: Bibliotecas
 
 
 
@@ -46,10 +35,10 @@ Para clonar e executar este aplicativo, você precisará :
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/AdrianoCostaJHP/register-app.git
+$ git clone https://github.com/AdrianoCostaJHP/spring-react-charts.git
 
 # Entrar na pasta do projeto 
-$ cd register-app
+$ cd spring-react-charts
 
 # Instalar as dependências 
 $ yarn
