@@ -16,32 +16,30 @@
  </p>
  <p align="center">
   <a href="#tecnologias">Tecnologias</a> •
-  <a href="#bibliotecas">Bibliotecas</a> •
+  <a href="#packages">Packages</a> •
   <a href="#como-usar">Como usar</a> •
   <a href="#licença">Licença</a>
 </p>
+<div  align="center">
+ <a href="https://adriano-costa-sds3.netlify.app/" >
+  <img src="frontend/public/assets/netlify-deploy.svg" alt="Demo on netifly" width="160">
+ </a>
+</div>
 
 ## Tecnologias
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Spring](https://spring.io/)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-<div>
-  <a href="https://pt-br.reactjs.org/" target="_blank">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </a>
-  <a href="https://spring.io/" target="_blank" >
-    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />        
-  </a>
-  <br>        
-</div>
+## Packages
 
-## Bibliotecas
+#### Visualizador de graficos
+
+| Name | Description |
+| --- | --- |
+| [`react-apexcharts`](https://www.npmjs.com/package/react-apexcharts) | Pacote para interação e visualização de graficos em react. |
 
 
 
@@ -71,7 +69,3 @@ Este projeto está licenciado sob a Licença MIT
 ---
 
 Feito por ♥ por Adriano Costa :wave: [Entrar em contato!](https://www.linkedin.com/in/adriano-costa-101395141/)
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
