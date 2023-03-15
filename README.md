@@ -6,27 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Aplicação de graficos a partir dos dados do backend feito com <a href="https://spring.io/" target="_blank">Spring</a> :)</h4>
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AdrianoCostaJHP/spring-react-charts?color=#ff8400"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AdrianoCostaJHP/spring-react-charts?color=#ff8400"/>
-  <img alt="GitHub" src="https://img.shields.io/github/license/AdrianoCostaJHP/spring-react-charts?color=#ff8400"/>
- <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/adrianocostaJHP/spring-react-charts?style=social"/>
- </p>
- <p align="center">
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#packages">Packages</a> •
-  <a href="#como-usar">Como usar</a> •
-  <a href="#licença">Licença</a>
-</p>
-<div  align="center">
- <a href="https://adriano-costa-sds3.netlify.app/" >
-  <img src="frontend/public/assets/netlify-deploy.svg" alt="Demo on netifly" width="160">
- </a>
-</div>
-
-## Tecnologias
+## Tecnologies
 
 - [Spring](https://spring.io/)
 - [ReactJS](https://pt-br.reactjs.org/)
@@ -35,37 +15,31 @@
 
 ## Packages
 
-#### Visualizador de graficos
+#### chart viewer
 
 | Name | Description |
 | --- | --- |
-| [`react-apexcharts`](https://www.npmjs.com/package/react-apexcharts) | Pacote para interação e visualização de graficos em react. |
+| [`react-apexcharts`](https://www.npmjs.com/package/react-apexcharts) | Package for interaction and visualization of graphs in react. |
 
 
 
-## Como usar
+## how to use
 
-Para clonar e executar este aplicativo, você precisará :
+To clone and run this app you will need:
 
 ```bash
-# Clonar o repositório
-$ git clone https://github.com/AdrianoCostaJHP/spring-react-charts.git
+# clone a repository
+$ git clone https://github.com/ericdev0212/spring-react-charts.git
 
-# Entrar na pasta do projeto 
+# Enther project folder
 $ cd spring-react-charts
 
-# Instalar as dependências 
+# Install the dependencies 
 $ yarn
 
-# Executar a aplicação 
+# run the application
 $ yarn dev
 ```
 
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT
-
----
-
-Feito por ♥ por Adriano Costa :wave: [Entrar em contato!](https://www.linkedin.com/in/adriano-costa-101395141/)
